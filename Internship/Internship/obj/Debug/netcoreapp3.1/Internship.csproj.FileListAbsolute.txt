@@ -81,4 +81,4 @@ C:\Users\alena\source\repos\Internship\Internship\Internship\bin\Debug\netcoreap
 C:\Users\alena\source\repos\Internship\Internship\Internship\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\alena\source\repos\Internship\Internship\Internship\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\alena\source\repos\Internship\Internship\Internship\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Register.cshtml.g.cs
-C:\Users\alena\source\repos\Internship\Internship\Internship\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\RegisterPart2.cshtml.g.cs
+C:\Users\alena\source\repos\Internship\Internship\Internship\obj\Debug\netcoreapp3.1\Razor\Pages\RegisterPart2.cshtml.g.cs
